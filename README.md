@@ -90,7 +90,7 @@ I enjoy working on **NLP**, **Optimization**, **Bioinformatics**, and **Python**
   	  <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/blob/main/assets/anime-star.gif" width="60" height="60" alt="star" />
 	  </picture>
   &nbsp;&nbsp;
-  <strong>Don't forget to ⭐ and follow!</strong>
+  <strong><b>Don't forget to ⭐ and follow!</b></strong>
   &nbsp;&nbsp;
   <picture>
   	  <source 
