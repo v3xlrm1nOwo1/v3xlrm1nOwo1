@@ -1,4 +1,4 @@
-<!-- Created by Mohammed Khalil — v3xlrm1nOwo1 -->
+<!-- Created by Mohammed Khalil — aka: Yare Sama — @v3xlrm1nOwo1 -->
 
 <div align="center">
 
@@ -37,7 +37,7 @@ currently seeking job opportunities or internships whilst writing papers and bui
 I work with various programming languages and collaborate with different people.
 I enjoy working on **NLP**, **Optimization**, **Bioinformatics**, and **Python**.
 
-> Full portfolio → <strong><b><a href="https://v3xlrm1nowo1.github.io/" target="_blank">https://v3xlrm1nowo1.github.io/</a></b></strong>
+> Full portfolio → <strong><b><a href="https://v3xlrm1nowo1.github.io/" target="_blank">https://v3xlrm1nOwo1.github.io/</a></b></strong>
 
 <br/>
 
@@ -58,7 +58,7 @@ I enjoy working on **NLP**, **Optimization**, **Bioinformatics**, and **Python**
 <p align="center">
   <a href="mailto:mohammed.khalil.mah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/v3xlrm1nOwo1" target="_blank"><img src="https://img.shields.io/badge/Twitter / X -000000?logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/mahmd-khalil" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://discord.com/users/1115622029178192005" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /></a>
   <!-- <a href="https://www.linkedin.com/in/mohammed-khalil-b62525217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" /></a> -->
   <!-- <a href="https://v3xlrm1nowo1.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white" /></a> -->
