@@ -7,7 +7,7 @@
 <p>
   <b>Junior ML Researcher</b><br/>
   self-taught background — currently seeking job opportunities and internships.<br/>
-  I work on <b>NLP</b>, <b>Optimization</b>, and <b>Bioinformatics</b>.
+  I work on <b>Deep Learning</b>, <b>NLP</b>, <b>Model Surgery</b>, <b>ML Optimization</b>, and <b>ML for Biology</b>.
 </p>
 
 <br/>
@@ -30,30 +30,30 @@
 
 <br/>
 
-## About Me
+<h2>About Me</h2>
 
-I'm a Junior ML Researcher with a self-taught background,
-currently seeking job opportunities or internships whilst writing papers and building personal projects.
-I work with various programming languages and collaborate with different people.
-I enjoy working on **NLP**, **Optimization**, **Bioinformatics**, and **Python**.
+<p>
+	I am largely self-directed — someone who picked up the field through curiosity. I am an ML Researcher working across three areas: ML Optimization, where I study and apply techniques that improve how models learn — from loss functions and activation functions and model surgery to training dynamics; NLP, where I focus on modeling, model surgery, machine translation, and diffusion models; and ML for Biology, where I apply deep learning to biological sequences and problems at the intersection of life sciences and computation.
+Across these areas, I build projects and research, some of which have been accepted at conferences. I am open to research collaborations, internships, job opportunities, or PhD scholarships where I can contribute meaningfully to these areas.
+</p>
 
 > Full portfolio → <strong><b><a href="https://v3xlrm1nowo1.github.io/" target="_blank">https://v3xlrm1nOwo1.github.io/</a></b></strong>
 
 <br/>
 
-## Research Interests
+<h2>Research Interests</h2>
 
 <p align="center">
-  <code>Machine Learning</code> &nbsp; <code>Deep Learning</code> &nbsp; <code>Natural Language Processing</code> &nbsp; <code>Optimization Algorithms</code>
+  <code>Machine Learning</code> &nbsp; <code>Deep Learning</code> &nbsp; <code>Natural Language Processing</code> &nbsp; <code>ML Optimization</code>
 </p>
 
 <p align="center">
-  <code>Large Language Models</code> &nbsp; <code>Neural Architecture Search</code> &nbsp; <code>Bioinformatics</code>
+  <code>Model Surgery</code> &nbsp; <code>Neural Architecture Search</code> &nbsp; <code>ML for Biology</code>
 </p>
 
 <br/>
 
-## Connect
+<h2>Connect</h2>
                                                                
 <p align="center">
   <a href="mailto:mohammed.khalil.mah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
